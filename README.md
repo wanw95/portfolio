@@ -3,7 +3,10 @@
 
 ## 사용한 데이터 셋
 
-### Boston housing data
-- https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
+### 1. Boston housing data
+> - https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
 
-
+> #### 사용기법
+>> - LinearRegression
+>> - Ridge
+>> - Lasso
